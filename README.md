@@ -5,4 +5,4 @@ Watch [this youtube Demo Video:](https://www.youtube.com/watch?v=xdvGBKGDf28)
 
 
 
-[![Video Thumbnail](assets/images/work/sispemas.webp)](https://www.youtube.com/watch?v=xdvGBKGDf28)
+[![Video Thumbnail](public/images/sispemas.webp)](https://www.youtube.com/watch?v=xdvGBKGDf28)
